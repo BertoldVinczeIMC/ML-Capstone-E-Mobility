@@ -1,0 +1,7 @@
+.vscode/*
+dataset/*
+venv/*
+__pycache__
+*.txt
+.venv/*
+```
